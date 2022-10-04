@@ -1,0 +1,15 @@
+E:\csharp\uni\InterpreterPattern\bin\Debug\net6.0\InterpreterPattern.exe
+E:\csharp\uni\InterpreterPattern\bin\Debug\net6.0\InterpreterPattern.deps.json
+E:\csharp\uni\InterpreterPattern\bin\Debug\net6.0\InterpreterPattern.runtimeconfig.json
+E:\csharp\uni\InterpreterPattern\bin\Debug\net6.0\InterpreterPattern.dll
+E:\csharp\uni\InterpreterPattern\bin\Debug\net6.0\InterpreterPattern.pdb
+E:\csharp\uni\InterpreterPattern\obj\Debug\net6.0\InterpreterPattern.csproj.AssemblyReference.cache
+E:\csharp\uni\InterpreterPattern\obj\Debug\net6.0\InterpreterPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\uni\InterpreterPattern\obj\Debug\net6.0\InterpreterPattern.AssemblyInfoInputs.cache
+E:\csharp\uni\InterpreterPattern\obj\Debug\net6.0\InterpreterPattern.AssemblyInfo.cs
+E:\csharp\uni\InterpreterPattern\obj\Debug\net6.0\InterpreterPattern.csproj.CoreCompileInputs.cache
+E:\csharp\uni\InterpreterPattern\obj\Debug\net6.0\InterpreterPattern.dll
+E:\csharp\uni\InterpreterPattern\obj\Debug\net6.0\refint\InterpreterPattern.dll
+E:\csharp\uni\InterpreterPattern\obj\Debug\net6.0\InterpreterPattern.pdb
+E:\csharp\uni\InterpreterPattern\obj\Debug\net6.0\InterpreterPattern.genruntimeconfig.cache
+E:\csharp\uni\InterpreterPattern\obj\Debug\net6.0\ref\InterpreterPattern.dll
